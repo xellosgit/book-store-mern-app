@@ -36,12 +36,3 @@ This project is a full-stack Book Store application built using the MERN (MongoD
 
 
 
-Feel free to fork this repository, create feature branches, and submit pull requests. Any contributions are highly appreciated!
-
-## License
-
-This project is licensed under the MIT License.
-
---- 
-
-You can copy and customize this description for your GitHub repository. Let me know if you'd like any additional details or modifications!
